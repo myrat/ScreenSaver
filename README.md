@@ -1,7 +1,7 @@
-"# ScreenSaver" 
+# ScreenSaver demo for Windows
 
-#ScreenSaver for Windows
+## ToDo
 
-#ToDo
--After long time running ScreenSaver shutdown PC
-
+* After long time running ScreenSaver shutdown PC
+* Ignore List: Don`t turnf off pc if running process have in list
+* and so many... 
